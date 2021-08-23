@@ -1,3 +1,4 @@
+# このアプリは、React Nativeで作ったhttps://github.com/keita0207/News_language_app のReact.jsで同じアプリを作りました。
 # 概要(このアプリは制作中です)
 
 学びたい言語のニュースを検索することができ、その言語を話す人達と会話が出来る言語学習アプリケーション。
@@ -41,7 +42,7 @@
 
 # 使用技術
 
-フロントエンド : React Native
+フロントエンド : React.js
 
 バックエンド : Firebase
 
