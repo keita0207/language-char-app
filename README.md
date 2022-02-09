@@ -1,4 +1,4 @@
-# このアプリは、React Nativeで作ったhttps://github.com/keita0207/News_language_app をReact.jsで同じアプリを作りました。
+# このアプリは、React Nativeで作ったhttps://github.com/keita0207/News_language_app をReact.jsで同じアプリを作っています。
 # ログイン方法 / Username => m@gmail.com | Password => 0207keita
 # 概要(このアプリは制作中です)
 
